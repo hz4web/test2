@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         Hi , All ... 555
         <?php
-        // put your code here
+            echo "hello";
         ?>
         dd
     </body>
