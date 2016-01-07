@@ -12,7 +12,10 @@ and open the template in the editor.
     <body>
         Hi , All ... 555
         <?php
-        // put your code here
+            echo 'hedi';
+            function functionName($param) {
+                
+            }
         ?>
         dd
     </body>
